@@ -2,15 +2,15 @@
 
 [org.gnome.desktop.interface]
 color-scheme='prefer-dark'
-gtk-theme='Graphite-red-Dark'
-icon-theme='Citrus-red-dark'
+gtk-theme='Graphite-Dark'
+icon-theme='GreyStone'
 cursor-theme='breeze_cursors'
 cursor-size=24
 
 
 [org.gnome.desktop.wm.preferences]
-theme='Graphite-red-Dark'
+theme='Graphite-Dark'
 
 
 [org.gnome.shell.extensions.user-theme]
-name='Graphite-red-Dark'
+name='Graphite-Dark'
